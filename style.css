@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2019/05/19/23/47/clouds-4215608_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#value{
+    position: relative;
+    text-align: center;
+}
+#display{
+    position: absolute;
+    margin-top: 25px;
+}
+i{
+    position: absolute;
+    left: 171px;
+
+    padding: 7px;
+    font-size: 18px;
+    color: white;
+}
+h1{
+    color: aliceblue;
+}
+h2{
+    color: 	#301934 ;
+}
